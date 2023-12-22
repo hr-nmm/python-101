@@ -21,4 +21,3 @@ Learning Structure:
 -1.19 Packages
 -1.20 Structuring an Application
 -1.21 Managing Third-Party Packages
--1.22 Python: It Fits Your Brain

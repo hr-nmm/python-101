@@ -2,8 +2,7 @@ Learning python repository:
 Books/Resources:
 
 - Beginner:
-  1.  Python Crash Course(No starch Press).
-  2.  Python Distilled.
+  1.  Python Distilled.
 - Intermediate:
   1.  Dead Simple Python(No Starch Press)
 - Advanced:
