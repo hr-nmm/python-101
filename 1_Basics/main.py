@@ -233,7 +233,7 @@ for key,value in d.items(): ## if we fo for key,val in d:  => gives error
 for i in range(8, 1, -1) :
    print(i,end= " ") # 8 7 6 5 4 3 2 
 print(7 in range(1,10)) # True
-print(4.5 in range(1,10)) # False
+print(4.5 in range(1,10)) # False(because integer step allowed)
 
 
 #-1.13 Functions
@@ -251,37 +251,3 @@ print(q,r) # 4 2
 ## connect(port=80, hostname='www.python.org')   => calling style 2
 ## connect('www.python.org', 80, 500)            => calling style 1   
 ## connect('www.python.org', 80, timeout=500)    => calling style 2
-
-
-#-1.14 Exceptions
-## 
-#
-import os
-print(os.__file__)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#-1.15 Program Termination
-#-1.16 Objects and Classes
-#-1.17 Modules
-#-1.18 Script Writing
-#-1.19 Packages
-#-1.20 Structuring an Application
-#-1.21 Managing Third-Party Packages
-#-1.22 Python: It Fits Your Brain
